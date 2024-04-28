@@ -27,4 +27,10 @@ The UCI Bank Marketing Dataset contains information related to direct marketing 
 #### >> Python libraries for data analysis and machine learning
 #### >> Matplotlib and Seaborn for data visualization
 # Usages
-#### 1. Clone the repository
+####  Clone the repository & Install dependencies:
+```bash
+git clone https://github.com/Nazmul92/ML-PySpark.git
+
+pip install pyspark
+pip install seaborn
+pip install matplotlib
