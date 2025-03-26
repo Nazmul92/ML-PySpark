@@ -1,4 +1,4 @@
-# Bank Marketing Campaign Optimization using Model based Features Selection
+# Data Driven Banking: Predictive Analysis for Deposit Subscription
 ## Overview
 This project aims to optimize a bank's marketing campaign by predicting whether a client will subscribe to a term deposit. Leveraging the UCI Bank Marketing Dataset, we perform exploratory data analysis (EDA), feature selection, and predictive modeling to identify key factors influencing customer decisions. The goal is to improve campaign efficiency by targeting high-potential clients, reducing costs, and increasing subscription rates.
 ## Key Objectives
